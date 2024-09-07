@@ -1,8 +1,10 @@
-# API CRUD Operations
+# Math Module with Jest Tests
 
-## Features
+> This project includes simple math modules with basic functions and additional math operations. The functions in this module are
 
-> GET: Retrieve all items or a specific item by ID.
-> POST: Create a new item.
-> PUT/PATCH: Update an existing item by ID.
-> DELETE: Remove an item by ID.
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square root
+6. Maximum value between two numbers
